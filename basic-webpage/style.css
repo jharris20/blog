@@ -1,0 +1,25 @@
+
+
+.blogWebpage-Header{
+    width: 100%;
+    height: 50px;
+    background-color: grey;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+}
+
+.blogWebpage-Header-Left {
+    flex: 3;
+    text-align: left;
+}
+
+.blogWebpage-Header-Center {
+    text-align: center;
+}
+
+.blogWebpage-Header-Right {
+    flex: 3;
+    text-align: right;
+}
